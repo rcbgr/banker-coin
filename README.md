@@ -19,5 +19,5 @@ cast wallet import deployer --interactive
 ```
 
 ```
-git submodule add https://github.com/openzeppelin/openzeppelin-contracts lib/openzeppelin-contracts
+forge install openzeppelin/openzeppelin-contracts
 ```
