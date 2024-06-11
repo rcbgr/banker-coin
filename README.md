@@ -1,6 +1,6 @@
-# Banker Coin README
+# BankerCoin README
 
-![Banker Coin](banker.png "Banker Coin")
+![BankerCoin](banker.png "Banker Coin")
 
 Installation
 
