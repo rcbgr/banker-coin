@@ -21,3 +21,7 @@ cast wallet import deployer --interactive
 ```
 forge install openzeppelin/openzeppelin-contracts
 ```
+
+[CoinGecko Listing Overview](https://support.coingecko.com/hc/en-us/articles/7291312302617-How-to-list-new-cryptocurrencies-on-CoinGecko)
+
+[CoinGecko Listing Form](https://www.coingecko.com/request-form/tokens/new?locale=en)
